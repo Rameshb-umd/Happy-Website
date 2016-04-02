@@ -1,4 +1,5 @@
-TicTacToe Game for INST 631 Project assignment.
-Technology used : HTMl, CSS, Jquery
-Contains: 4 files. 
-The game is hosted in http://rameshbalasekaran.com/INST631/HW1/
+Emotionally Happy Website.
+
+Transforming page registration a fun activity aiming to retain more customers to register for a website.
+Created as a part of Fundamentals of Human Computer Interaction class at University of Maryland College Park
+http://rameshbalasekaran.com/INST631/HW5/
